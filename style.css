@@ -8,7 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #666666;
+    background-color: #222;
 }
 .body .on {
     background: radial-gradient(#555,#111);
