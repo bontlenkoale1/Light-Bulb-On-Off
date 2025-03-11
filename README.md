@@ -32,7 +32,7 @@ This project is deployed on **Netlify**. Click the link below to view it:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/bontlenkoale1/light-bulb-app.git```
+   git clone https://github.com/bontlenkoale1/light-bulb-app.git
 2. Open index.html in any modern web browser.
 
 
@@ -46,8 +46,10 @@ Improve mobile responsiveness.
 Use local storage to remember the last state of the light.
 
 
-##📄 License
+## 📄License
 This project is open-source and free to use.
 
-## Author: Bridgette Nkoale
+
+
+## Author: Bridgette Nkoale 🚀
 
